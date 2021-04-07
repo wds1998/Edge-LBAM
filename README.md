@@ -15,9 +15,6 @@ edge completion network for effective prediction of coherent edges.
 
 ## Training
 
-To train the MECNet:
-
-
 
 To train the Edge-LBAM model:
 
