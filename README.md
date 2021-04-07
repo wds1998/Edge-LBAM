@@ -43,10 +43,7 @@ python test_random_batch.py --dataRoot your_image_path
 ## Results
 
 #### Inpainting
-
-<center>
-    <img src=https://github.com/wds1998/Edge-LBAM/blob/main/examples/input28-1.png?raw=true width = 25%><img src=https://github.com/wds1998/Edge-LBAM/blob/main/examples/gl28-1.png?raw=true width = 25%><img src=https://github.com/wds1998/Edge-LBAM/blob/main/examples/pconv28-1.png?raw=true width = 25%><img src=https://github.com/wds1998/Edge-LBAM/blob/main/examples/gc28-1.png?raw=true width = 25%>
-</center>
+<img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/input28-1.png?raw=true" width="25%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/gl28-1.png?raw=true" width = "25%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/pconv28-1.png?raw=true" width="33%"/><img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/gc28-1.png?raw=true" width="25%"/>
 
 <center>
 	<img src=https://github.com/wds1998/Edge-LBAM/blob/main/examples/ec28-1.png?raw=true width = 25%><img src=https://github.com/wds1998/Edge-LBAM/blob/main/examples/MEDFE28-1.png?raw=true width = 25%><img src=https://github.com/wds1998/Edge-LBAM/blob/main/examples/ours28-1.png?raw=true width = 25%><img src=https://github.com/wds1998/Edge-LBAM/blob/main/examples/GT28-1.png?raw=true width = 25%>
