@@ -45,12 +45,10 @@ python test_random_batch.py --dataRoot your_image_path
 #### Inpainting
 <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/input28-1.png?raw=true" width="20%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/gl28-1.png?raw=true" width = "20%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/pconv28-1.png?raw=true" width="20%"/><img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/gc28-1.png?raw=true" width="20%"/>
 
-<img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/input28-1.png?raw=true" width="20%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/gl28-1.png?raw=true" width = "20%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/pconv28-1.png?raw=true" width="20%"/><img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/gc28-1.png?raw=true" width="20%"/>    
+<img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/ec28-1.png?raw=true" width="20%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/MEDFE28-1.png?raw=true" width = "20%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/ours28-1.png?raw=true" width="20%"/><img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/GT28-1.png?raw=true" width="20%"/>    
 
 ### MECNet
 
-<center class="half">
-   <img src=examples\input1.png height = 300/><img src=examples\edge_mecnet(s)_1.png height = 300/><img src=examples\edge_mecnet_1.png height = 300/>
-</center>
+ <img src=examples\input1.png width=30%/><img src=examples\edge_mecnet(s)_1.png width=30%/><img src=examples\edge_mecnet_1.png width=30%/>
 
 ​                                 input                                                             mecnet(single-scale)                                  mecnet(multi-scale)
