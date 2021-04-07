@@ -43,12 +43,11 @@ python test_random_batch.py --dataRoot your_image_path
 ## Results
 
 #### Inpainting
-<img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/input28-1.png?raw=true" width="20%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/gl28-1.png?raw=true" width = "20%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/pconv28-1.png?raw=true" width="20%"/><img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/gc28-1.png?raw=true" width="20%"/>
-
-<img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/ec28-1.png?raw=true" width="20%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/MEDFE28-1.png?raw=true" width = "20%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/ours28-1.png?raw=true" width="20%"/><img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/GT28-1.png?raw=true" width="20%"/>    
+From left to right are input, the result of Global&Local,PConv,DeepFillv2.
+<img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/input28-1.png?raw=true" width="18%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/gl28-1.png?raw=true" width = "18%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/pconv28-1.png?raw=true" width="18%"/><img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/gc28-1.png?raw=true" width="18%"/>
+From left to right are the result of Edge-Connect, MEDFE, Ours and GT.
+<img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/ec28-1.png?raw=true" width="18%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/MEDFE28-1.png?raw=true" width = "18%"/> <img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/ours28-1.png?raw=true" width="18%"/><img src="https://github.com/wds1998/Edge-LBAM/blob/main/examples/GT28-1.png?raw=true" width="18%"/>    
 
 ### MECNet
-
+From left to right are input, edge competion of single-scale network and multi-scale network.
  <img src=examples\input1.png width=30%/><img src=examples\edge_mecnet(s)_1.png width=30%/><img src=examples\edge_mecnet_1.png width=30%/>
-
-​                                 input                                                             mecnet(single-scale)                                  mecnet(multi-scale)
